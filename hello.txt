@@ -4,7 +4,6 @@ third update updatsee
 fourth update se
 five
 dev add
-<<<<<<< HEAD
-master在第六航
+master在第liu航
 dev分支在第六航插入
->>>>>>> dev
+
